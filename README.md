@@ -26,15 +26,12 @@ A simple and elegant web application that converts PDF files to audio using *Pyt
 
 pdf-to-audiobook/
 │
-├── app.py                 # Main Flask backend   
 
+├── app.py                 # Main Flask backend   
 ├── templates/                                                                
 │   └── index.html         # Frontend HTML     
-
 ├── static/
-
 │   └── audio/             # Folder to store generated MP3s
-
 └── README.md 
 
 💡 Example
